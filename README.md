@@ -7,3 +7,6 @@ example of usage
 npm i
 SCAN_DIR="path/to/folder" GIT_BRANCH="master" PERIOD="31d" FROM_DATE="2021-07-01" LANGUAGES="Java,Kotlin" npm start
 ```
+
+result of running script — index.html file with code history charts:
+![example.png](images%2Fexample.png)
