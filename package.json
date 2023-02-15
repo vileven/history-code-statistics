@@ -1,0 +1,24 @@
+{
+  "name": "history-code-statistics",
+  "version": "1.0.0",
+  "description": "A set of tools to accumulate history statistics of code and show charts",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/vileven/history-code-statistics.git"
+  },
+  "keywords": [
+    "typescript",
+    "git",
+    "cloc"
+  ],
+  "author": "Sergei Volodin",
+  "license": "MIT",
+  "bugs": {
+    "url": "https://github.com/vileven/history-code-statistics/issues"
+  },
+  "homepage": "https://github.com/vileven/history-code-statistics#readme"
+}

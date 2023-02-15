@@ -1,0 +1,9 @@
+package-lock.json
+dist/
+build/
+coverage/
+stats/
+.jest-cache/
+node_modules/
+storybook-static/
+allure/
