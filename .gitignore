@@ -140,3 +140,6 @@ testcafe/screenshots
 allure
 # stryker temp files
 .stryker-tmp
+
+chartdata.json
+index.html
