@@ -16,7 +16,7 @@ function* periodIterator(from: Date, period: number) {
         nextPoint = new Date(+nextPoint + period);
     }
 
-    return getFormattedString(new Date());
+    yield getFormattedString(new Date());
 }
 
 export default periodIterator;
